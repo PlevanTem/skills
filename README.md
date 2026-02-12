@@ -36,6 +36,7 @@
 - **gemini-imagegen** - Gemini 图像生成
 - **slack-gif-creator** - Slack GIF 创建器
 - **scientific-schematics** - 科学图表生成
+- **image-template-extraction** - 图像模板提取 (Lovart Style)
 
 ### 开发工具
 - **loki-mode** - Loki 模式开发工具
